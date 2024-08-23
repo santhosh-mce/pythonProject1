@@ -50,4 +50,3 @@ elif m.upper() == "BD":
 else:
     print("you NOT guess any number ")
 
-print("THANK YOU")
